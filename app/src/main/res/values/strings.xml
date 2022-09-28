@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diyor</string>
+
+    <string name="registration_signIn">Sign In</string>
+    <string name="registration_signUp">Sign Up</string>
+    <string name="registration_signIn_title">Hello to my app</string>
+    <string name="registration_signUp_title">Create Account</string>
+    <string name="registration_email">E-mail</string>
+    <string name="registration_password">Password</string>
+    <string name="registration_confirm_password">Confirm password</string>
+
+    <string name="error_signUp">*This field is required</string>
+    <string name="error_signUp_password">*Passwords don`t match</string>
+    <string name="error_email">*Your e-mail is invalid</string>
+    <string name="error_password">*Your password is invalid</string>
+    <string name="error_signIn_email">*Incorrect e-mail</string>
+    <string name="error_signIn_password">*Incorrect password</string>
+</resources>
